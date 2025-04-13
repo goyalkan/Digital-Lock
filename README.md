@@ -1,1 +1,1 @@
-# Digital-Lock
+This is a simple Digital Lock System implemented in Verilog. It has a 4-bit password input, try again button to retry entering the password, reset button to reset the lock, LED output to indicate locked (OFF) or unlocked (ON) state. Also the Finite State Machine (FSM) is designed with 3 states: LOCKED; TRY_AGAIN; UNLOCKED
